@@ -11,6 +11,9 @@ https://github.com/siranovel/libproxydynlang/wiki/design
 ## Demo ##
 
 ## VS. ##
+* swig VS libproxydynlang  
+![libproxydynlang](images/cmpProxyDynLang.jpg)  
+![swig](images/cmpSwig.jpg)
 
 ## Requirement ##
 VineLinux ver 6.5に付属しているライブラリに依存
