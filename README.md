@@ -11,7 +11,7 @@ https://github.com/siranovel/libproxydynlang/wiki/design
 ## Demo ##
 
 ## VS. ##
-* swig VS libproxydynlang  
+* libproxydynlang  VS swig.  
 ![libproxydynlang](images/cmpProxyDynLang.jpg)  
 ![swig](images/cmpSwig.jpg)
 
